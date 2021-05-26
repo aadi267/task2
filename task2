@@ -1,0 +1,6 @@
+a=int(input("Enter the start value of Range"))
+b=int(input("Enter the end value of Range"))
+i=a
+while a<=b:
+    print(a)
+    a=a+1
